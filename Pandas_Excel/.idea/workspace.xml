@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c926ec39-27d8-4de9-b6aa-67933dbcf48a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zyi2dTs1Agcq5YHyzpcYOoMftU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="E:/Project_SourceCode/ConvertCSV" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.basic_pandas">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Pandas_Excel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\prnsoft\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basic_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pandas_Excel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\prnsoft\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_pandas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="Pandas_Excel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\prnsoft\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.basic_pandas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c926ec39-27d8-4de9-b6aa-67933dbcf48a" name="Default Changelist" comment="" />
+      <created>1585817528630</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585817528630</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add">
+      <created>1585892233039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585892233039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585817548735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585817548735" />
+    <state x="1106" y="121" key="CommitChangelistDialog2" timestamp="1585892232121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1106" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585892232121" />
+    <state width="1506" height="466" key="DebuggerActiveHint" timestamp="1585877857612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1506" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585877857612" />
+    <state x="1220" y="281" key="FileChooserDialogImpl" timestamp="1585891313164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585891313164" />
+    <state x="1278" y="437" width="347" height="166" key="Github.CreateGistDialog" timestamp="1585873103971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1278" y="437" width="347" height="166" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585873103971" />
+    <state width="1921" height="153" key="GridCell.Tab.0.bottom" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state width="1921" height="153" key="GridCell.Tab.0.center" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state width="1921" height="153" key="GridCell.Tab.0.left" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state width="1921" height="153" key="GridCell.Tab.0.right" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state width="1921" height="153" key="GridCell.Tab.1.bottom" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state width="1921" height="153" key="GridCell.Tab.1.center" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state width="1921" height="153" key="GridCell.Tab.1.left" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state width="1921" height="153" key="GridCell.Tab.1.right" timestamp="1585910578283">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="153" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585910578283" />
+    <state x="926" y="165" key="SettingsEditor" timestamp="1585871730505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585871730505" />
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1585892268299">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585892268299" />
+  </component>
+</project>
