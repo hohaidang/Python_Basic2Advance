@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08951a84-0a9e-4090-b2a1-90633bffa058" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BeginingTutorial/.idea/BeginingTutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ErrorHandling/.idea/ErrorHandling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JSON_Python/.idea/JSON_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MachineLearningGetStarted/.idea/MachineLearningGetStarted.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OrderCoordinateClockwise/.idea/OrderCoordinateClockwise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pack_Tkinter/.idea/Pack_Tkinter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Request_WebHTML/.idea/Request_WebHTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RotateImage/.idea/RotateImage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/.idea/Test.iml" afterDir="false" />
+    <list default="true" id="08951a84-0a9e-4090-b2a1-90633bffa058" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +37,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Queries_SQL">
+    <configuration name="Queries_SQL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Access_MySQLdb" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queries_SQL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Access_MySQLdb" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Queries_SQL" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -99,7 +110,19 @@
       <option name="presentableId" value="Default" />
       <updated>1586160880845</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update access database">
+      <created>1586226094607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586226094607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update access database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update access database" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586161537239">
@@ -110,38 +133,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1106" y="121" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586226093267" />
-    <state width="958" height="288" key="GridCell.Tab.0.bottom" timestamp="1586225953682">
+    <state width="957" height="355" key="GridCell.Tab.0.bottom" timestamp="1586231539478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586225953682" />
-    <state width="958" height="288" key="GridCell.Tab.0.center" timestamp="1586225953681">
+    <state width="957" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539478" />
+    <state width="957" height="355" key="GridCell.Tab.0.center" timestamp="1586231539478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586225953681" />
-    <state width="958" height="288" key="GridCell.Tab.0.left" timestamp="1586225953681">
+    <state width="957" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539478" />
+    <state width="957" height="355" key="GridCell.Tab.0.left" timestamp="1586231539478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586225953681" />
-    <state width="958" height="288" key="GridCell.Tab.0.right" timestamp="1586225953681">
+    <state width="957" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539478" />
+    <state width="957" height="355" key="GridCell.Tab.0.right" timestamp="1586231539478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586225953681" />
-    <state width="958" height="355" key="GridCell.Tab.1.bottom" timestamp="1586221098178">
+    <state width="957" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539478" />
+    <state width="957" height="355" key="GridCell.Tab.1.bottom" timestamp="1586231539428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586221098178" />
-    <state width="958" height="355" key="GridCell.Tab.1.center" timestamp="1586221098178">
+    <state width="957" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539428" />
+    <state width="957" height="355" key="GridCell.Tab.1.center" timestamp="1586231539428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586221098178" />
-    <state width="958" height="355" key="GridCell.Tab.1.left" timestamp="1586221098178">
+    <state width="957" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539428" />
+    <state width="957" height="355" key="GridCell.Tab.1.left" timestamp="1586231539428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586221098178" />
-    <state width="958" height="355" key="GridCell.Tab.1.right" timestamp="1586221098178">
+    <state width="957" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539428" />
+    <state width="957" height="355" key="GridCell.Tab.1.right" timestamp="1586231539428">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586221098178" />
+    <state width="957" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586231539428" />
     <state x="926" y="168" key="SettingsEditor" timestamp="1586161228915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -150,5 +173,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586162904267" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
