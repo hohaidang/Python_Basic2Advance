@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3494437-b3c0-47e4-874f-6d9dc375c2d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MachineLearningGetStarted" />
+  </component>
+  <component name="ProjectId" id="1VV6YosLE5lydvHV3ngfr3OhKES" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.predict">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearningGetStarted" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/predict.py" />
+      <option name="PARAMETERS" value="--image images/cat.jpg --model output/simple_nn.model --label-bin output/simple_nn_lb.pickle --width 32 --height 32 --flatten 1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_simple_nn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearningGetStarted" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/train_simple_nn.py" />
+      <option name="PARAMETERS" value="--dataset animals --model output/simple_nn.model  --label-bin output/simple_nn_lb.pickle --plot output/simple_nn_plot.png" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_simple_nn" />
+      <item itemvalue="Python.predict" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.train_simple_nn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3494437-b3c0-47e4-874f-6d9dc375c2d4" name="Default Changelist" comment="" />
+      <created>1577325965138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577325965138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577330401304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577330401304" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1577326126696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577326126696" />
+    <state width="1921" height="282" key="GridCell.Tab.0.bottom" timestamp="1577344098053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098053" />
+    <state width="1921" height="282" key="GridCell.Tab.0.center" timestamp="1577344098053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098053" />
+    <state width="1921" height="282" key="GridCell.Tab.0.left" timestamp="1577344098053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098053" />
+    <state width="1921" height="282" key="GridCell.Tab.0.right" timestamp="1577344098053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098053" />
+    <state width="1921" height="264" key="GridCell.Tab.1.bottom" timestamp="1577344098037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098037" />
+    <state width="1921" height="264" key="GridCell.Tab.1.center" timestamp="1577344098037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="264" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098037" />
+    <state width="1921" height="264" key="GridCell.Tab.1.left" timestamp="1577344098037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="264" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098037" />
+    <state width="1921" height="264" key="GridCell.Tab.1.right" timestamp="1577344098037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="264" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577344098037" />
+    <state x="822" y="135" key="SettingsEditor" timestamp="1577326256519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="135" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577326256519" />
+    <state x="534" y="258" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577338181582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="534" y="258" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1577338181582" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="model" />
+        <watch expression="H" />
+        <watch expression="predictions" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
