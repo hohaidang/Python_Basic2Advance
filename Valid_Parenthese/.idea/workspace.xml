@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4abba08-bc99-4ba6-9afe-483646d2acd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LongestCommonPrefix/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RomanToInteger/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c4abba08-bc99-4ba6-9afe-483646d2acd6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
