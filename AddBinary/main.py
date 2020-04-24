@@ -5,8 +5,9 @@ class Solution:
             answer = x ^ y
             carry = (x & y) << 1
             x, y = answer, carry
-        return bin(x)[2:]
+        return bin(x)[2:] # remove '0b'
 
 
 a = Solution()
-a.addBinary("1001", "1111")
+bin = a.addBinary("1111", "0010")
+print("HelloWorld")
